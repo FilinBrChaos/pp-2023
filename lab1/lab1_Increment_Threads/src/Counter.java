@@ -1,4 +1,3 @@
-package myPackage;
 import static java.lang.System.*;
 
 public class Counter implements Runnable {

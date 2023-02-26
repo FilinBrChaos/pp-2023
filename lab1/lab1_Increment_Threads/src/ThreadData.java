@@ -1,5 +1,3 @@
-package myPackage;
-
 public class ThreadData implements Cloneable {
     int id;
     String name;
