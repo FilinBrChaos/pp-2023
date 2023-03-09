@@ -1,0 +1,24 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/Users/paul/Documents/Study/University/Паралельні процеси/lab1/lab1Ada/main.gpr
+20230228233713 48cd05b19182aa930c3984c73fd1c101
+[BOUND OBJECT FILES]
+/Users/paul/Documents/Study/University/Паралельні процеси/lab1/lab1Ada/.objs/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/Users/paul/Documents/Study/University/Паралельні процеси/lab1/lab1Ada/.objs/
+-L/Users/paul/Documents/Study/University/Паралельні процеси/lab1/lab1Ada/.objs/
+-L/usr/lib/gcc/aarch64-linux-gnu/10/adalib/
+-shared
+-shared-libgcc
+-lgnarl-10
+-lgnat-10
+-lrt
+-lpthread
+[RUN PATH OPTION]
+/usr/lib/gcc/aarch64-linux-gnu/10/adalib/
+/usr/lib

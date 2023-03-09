@@ -19,8 +19,9 @@ public class ThreadController implements Runnable {
             int maxDelay = threadData[0].lifeDuration;
             for (int i = 0; i < threadData.length; i++) {
                 ThreadData currentThreadData = threadData[i];
-                if (maxDelay < currentThreadData.lifeDuration)
+                if (maxDelay < currentThreadData.lifeDuration) {
                     maxDelay = currentThreadData.lifeDuration;
+                }
 
                 timer.schedule(new TimerTask() {
                     @Override
